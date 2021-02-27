@@ -40,8 +40,8 @@ export const IndexPageTemplate = ({
           className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
             boxShadow:
-              'bego-main 0.5rem 0px 0px, bego-main -0.5rem 0px 0px',
-            backgroundColor: 'bego-main',
+              'rgb(110,12,66) 0.5rem 0px 0px, rgb(110,12,66) -0.5rem 0px 0px',
+            backgroundColor: 'rgb(110,12,66)',
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
@@ -53,8 +53,8 @@ export const IndexPageTemplate = ({
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
             boxShadow:
-              'bego-main 0.5rem 0px 0px, bego-main -0.5rem 0px 0px',
-            backgroundColor: 'bego-main',
+              'rgb(110,12,66) 0.5rem 0px 0px, rgb(110,12,66) -0.5rem 0px 0px',
+            backgroundColor: 'rgb(110,12,66)',
             color: 'white',
             lineHeight: '1',
             padding: '0.25em',
